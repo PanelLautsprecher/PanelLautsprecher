@@ -1,2 +1,2 @@
-# panellautsprecher.github.io
-Projekt Panel-Lautsprecher
+# panellautsprecher2.github.io
+überarbeitung der Urversion
