@@ -1,2 +1,2 @@
 # panellautsprecher.github.io
-Infos zum Bahnbrechenden Panel-Lautsprecher
+Projekt Panel-Lautsprecher
